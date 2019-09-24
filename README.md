@@ -1,3 +1,5 @@
+View demo at [Weather App](https://lamhungypl.github.io/weatherapp/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
