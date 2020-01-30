@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  weatherappp:
+    container_name: front-end
+    working_dir: /usr/app
+    build: ./
+    ports:
+      - "3000:3000"
+    volumes:
+      - /usr/app/node_modules
+      - ./:/usr/app
