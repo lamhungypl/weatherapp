@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/weatherapp/static/css/main.39f45790.chunk.css",
-    "main.js": "/weatherapp/static/js/main.06399815.chunk.js",
-    "main.js.map": "/weatherapp/static/js/main.06399815.chunk.js.map",
-    "runtime-main.js": "/weatherapp/static/js/runtime-main.c2cefd07.js",
-    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.c2cefd07.js.map",
-    "static/css/2.266e55a5.chunk.css": "/weatherapp/static/css/2.266e55a5.chunk.css",
-    "static/js/2.7ae6dade.chunk.js": "/weatherapp/static/js/2.7ae6dade.chunk.js",
-    "static/js/2.7ae6dade.chunk.js.map": "/weatherapp/static/js/2.7ae6dade.chunk.js.map",
+    "main.css": "/weatherapp/static/css/main.1c496d4c.chunk.css",
+    "main.js": "/weatherapp/static/js/main.c26b9b3f.chunk.js",
+    "main.js.map": "/weatherapp/static/js/main.c26b9b3f.chunk.js.map",
+    "runtime-main.js": "/weatherapp/static/js/runtime-main.70065336.js",
+    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.70065336.js.map",
+    "static/css/2.de424728.chunk.css": "/weatherapp/static/css/2.de424728.chunk.css",
+    "static/js/2.c2c8fec4.chunk.js": "/weatherapp/static/js/2.c2c8fec4.chunk.js",
+    "static/js/2.c2c8fec4.chunk.js.map": "/weatherapp/static/js/2.c2c8fec4.chunk.js.map",
     "index.html": "/weatherapp/index.html",
-    "precache-manifest.f8fec1647f46a870aefd4ea33f2f11ee.js": "/weatherapp/precache-manifest.f8fec1647f46a870aefd4ea33f2f11ee.js",
+    "precache-manifest.d6cd786bee5ffa6fc51911bb117e4c6e.js": "/weatherapp/precache-manifest.d6cd786bee5ffa6fc51911bb117e4c6e.js",
     "service-worker.js": "/weatherapp/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/weatherapp/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.39f45790.chunk.css.map": "/weatherapp/static/css/main.39f45790.chunk.css.map",
+    "static/css/2.de424728.chunk.css.map": "/weatherapp/static/css/2.de424728.chunk.css.map",
+    "static/css/main.1c496d4c.chunk.css.map": "/weatherapp/static/css/main.1c496d4c.chunk.css.map",
     "static/media/App.css": "/weatherapp/static/media/bg.b6796c73.jpg"
   }
 }
