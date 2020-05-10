@@ -22,19 +22,19 @@ class Header extends React.Component {
         <div className="navbar-collapse">
           <ul className="menu">
             <li className="menu-item">
-              <a href="/#">Weather</a>
+              <a href={this.state.urlBrand}>Weather</a>
             </li>
             <li className="menu-item">
-              <a href="/#">Map</a>
+              <a href={this.state.urlBrand}>Map</a>
             </li>
             <li className="menu-item">
-              <a href="/#">API</a>
+              <a href={this.state.urlBrand}>API</a>
             </li>
             <li className="menu-item">
-              <a href="/#">Widgets</a>
+              <a href={this.state.urlBrand}>Widgets</a>
             </li>
             <li className="menu-item">
-              <a href="/#">Blog</a>
+              <a href={this.state.urlBrand}>Blog</a>
             </li>
           </ul>
         </div>
