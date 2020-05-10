@@ -1,5 +1,5 @@
 .navbar {
-  background: rgb(78, 77, 74);
+  background: #3e4382;
   display: flex;
   justify-content: space-around;
 }
@@ -7,11 +7,13 @@
 .navbar-header img {
   height: 100%;
 }
+
 .navbar-collapse {
   width: 80%;
   display: flex;
   justify-content: center;
 }
+
 .navbar-collapse .menu {
   width: 80%;
   display: flex;
